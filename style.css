@@ -1,0 +1,29 @@
+h1 {
+    background-color: red;
+    color: black;
+    text-align: center;
+    font-size: 72pt;
+    text-decoration: underline;
+    padding: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#firstParagraph {
+    font-size: 30pt;
+}
+
+.paragraph{
+    color: red;
+}
+
+p {
+    font-size: 5pt;
+    color: blue;
+}
+
+/* priority */
+/* tag name < class < id */
+/* class: . */
+/* id: # */
